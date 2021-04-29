@@ -1,4 +1,4 @@
-module github.com/Joakker/tcod-go
+module github.com/morphine-take/tcod-go
 
 go 1.15
 
